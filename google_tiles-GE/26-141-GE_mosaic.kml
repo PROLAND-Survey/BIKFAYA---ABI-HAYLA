@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>26-141-GE Pix4D</name>
+<description></description>
+<Style><ListStyle id="hideChildren">
+<listItemType>checkHideChildren</listItemType>
+</ListStyle>
+</Style>
+<NetworkLink>
+<name>16/39265/39337.kml</name>
+<Region>
+<LatLonAltBox>
+<north>33.916013113401696</north>
+<south>33.911454454267634</south>
+<east>35.694580078124986</east>
+<west>35.689086914062493</west>
+</LatLonAltBox>
+<Lod>
+<minLodPixels>128</minLodPixels>
+<maxLodPixels>-1</maxLodPixels>
+</Lod>
+</Region>
+<Link>
+<href>16/39265/39337.kml</href>
+<viewRefreshMode>onRegion</viewRefreshMode>
+</Link>
+</NetworkLink>
+
+</Document>
+</kml>
